@@ -50,10 +50,17 @@ The papers are listed by publication category in reverse chronological order. Th
 ---
 ---
 ## 2014
+* #### An Exploration of Code Quality in FOSS Projects  
+  Iftekhar Ahmed, Soroush Ghorashi, Carlos Jensen  
+  International Symposium on Open Source Software: Mobile Open Source Technologies (OSS), Springer Berlin Heidelberg.    
+  July 2014
+  
 * #### An Empirical Comparison of Mutant Selection Approaches  
   Rahul Gopinath, Amin Alipour, Iftekhar Ahmed, Carlos Jensen, Alex Groce  
-  In Technical Report, School of Engineering and Computer Science,Oregon State University.  
+  Technical Report, School of Engineering and Computer Science,Oregon State University.  
   May 2014
+
+
 
 
 
