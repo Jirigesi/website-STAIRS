@@ -20,6 +20,10 @@ rank: 0
 The <b>Software Engineering & Testing Using Artificial Intelligence for Reliable Software</b> lab, located at UC Irvine, tries to develope and come with better tools and techniques to develope more reliable, scalable, and maintable softwares. We use artificial intelligence to analyze software evolution.
 </p>
 
+<p class="lead">
+We are looking for highly motivated <b>PhD or Master</b> students. Please send resumes and cover letters to Iftekha@uci.edu
+</p>
+
 
 ## Recent News
 <!-- see also news.markdown -->
@@ -39,9 +43,9 @@ The <b>Software Engineering & Testing Using Artificial Intelligence for Reliable
 </ul>
 
 
-## Current Projects
+<!-- ## Projects
 
-{% include current_projects %}
+{% include current_projects %} -->
 
 &nbsp;&nbsp;
 
@@ -52,7 +56,7 @@ The <b>Software Engineering & Testing Using Artificial Intelligence for Reliable
 <!-- </a> -->
 
     <!-- <a href="https://uci.edu/"> -->
-    <img src="{{ site.baseurl }}/images/UCI-Logo.png" class="img-thumbnail" style="min-height:120px; height:120px;">
+    <img src="{{ site.baseurl }}/images/UCI-Logo.png" class="img-thumbnail" style="min-height:100px; height:100px;">
     <!-- </a> -->
 
 </div>

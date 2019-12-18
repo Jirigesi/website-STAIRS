@@ -1,7 +1,7 @@
-name: DB group
+name: STAIRS Lab
 markdown: kramdown
 highlighter: rouge
-url: https://db.cs.washington.edu
+url: https:/ics.uci.edu
 baseurl: ""
 plugins:
   - jekyll-redirect-from
