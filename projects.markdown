@@ -10,8 +10,6 @@ id: "projects"
 ## Projects
 
 {% include current_projects %}
-
-
 &nbsp;&nbsp;
 
 <div height="50" class="flex-container logos images-container">
