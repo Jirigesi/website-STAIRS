@@ -1,0 +1,16 @@
+- date: 2019-12-08
+  description: |
+    Two of [Iftekhar](https://www.informatics.uci.edu/explore/faculty-profiles/iftekhar-ahmed/)'s papers got accepted!
+    - 'Planning for Untangling: Predicting the Difficulty of Merge Conflicts' at ICSE 2020
+    - 'Accessibility Issues in Android Apps: State of Affairs, Sentiments, and Ways Forward' at ICSE 2020
+
+
+- date: 2019-09-23
+  description: >
+    STAIRS Lab is established!
+
+
+
+
+# Descriptions that include Markdown need to be in quotes or in a literal/folded block (with '|' or '>')
+# (see https://learnxinyminutes.com/docs/yaml/)

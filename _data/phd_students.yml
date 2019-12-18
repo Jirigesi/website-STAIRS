@@ -1,0 +1,16 @@
+# use image: placeholder.jpg for those w/o pics
+
+- name: Jiri Gesi
+  nickname: Jiri
+  website: https://jirigesi.github.io/
+  image: jirigesi.JPG
+
+- name: Andrew Truelove
+  nickname: Andrew
+  website: https://www.linkedin.com/in/andrew-truelove-85b8bb49/
+  image: andrew.jpg
+
+- name: Mehran Meidani
+  nickname: Mehran
+  website: https://www.linkedin.com/in/mehranmeidani
+  image: mehran.png

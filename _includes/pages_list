@@ -1,0 +1,16 @@
+<li {% if page.id == 'people' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/people.html"><i class="fa fa-id-card-o"></i> People</a>
+</li>
+
+<li {% if page.id == 'projects' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/projects.html"><i class="fa fa-graduation-cap"></i> Projects</a>
+</li>
+
+<li {% if page.id == 'papers' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/courses.html"><i class="fa fa-book"></i> Papers</a>
+</li>
+
+
+<li {% if page.id == 'news' %}class="active"{% endif %}>
+  <a href="{{ site.baseurl }}/news.html"><i class="fa fa-newspaper-o"></i> News</a>
+</li>

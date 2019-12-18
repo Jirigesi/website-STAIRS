@@ -1,0 +1,7 @@
+<div class="current-projects flex-container image-container">
+
+{% include project name="Project" caption="An Software Testing related project" image="themis.png" link="http://db.cs.washington.edu/projects/themis" %}
+
+
+
+</div>
