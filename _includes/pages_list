@@ -5,7 +5,7 @@
 
 
 <li {% if page.id == 'papers' %}class="active"{% endif %}>
-  <a href="{{ site.baseurl }}/courses.html"><i class="fa fa-book"></i> Papers</a>
+  <a href="{{ site.baseurl }}/papers.html"><i class="fa fa-book"></i> Papers</a>
 </li>
 
 

@@ -17,11 +17,11 @@ rank: 0
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 <p class="lead">
-The <b>Software Engineering & Testing Using Artificial Intelligence for Reliable Software</b> lab, located at UC Irvine, tries to develope and come with better tools and techniques to develope more reliable, scalable, and maintable softwares. We use artificial intelligence to analyze software evolution.
+The <b>Software Engineering & Testing Using Artificial Intelligence for Reliable Software</b> lab, located at UC Irvine, tries to develop and come up with better tools and techniques to develop more reliable, scalable, and maintainable software. We use artificial intelligence to analyze software evolution.
 </p>
 
 <p class="lead">
-We are looking for highly motivated <b>PhD or Master</b> students. Please send resumes and cover letters to Iftekha@uci.edu
+We are looking for highly motivated <b>PhD or Master</b> students. Please send resumes and cover letters to iftekha@uci.edu
 </p>
 
 
