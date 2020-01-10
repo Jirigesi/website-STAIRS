@@ -17,7 +17,8 @@ rank: 0
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 <p class="lead">
-The <b>Software Engineering & Testing Using Artificial Intelligence for Reliable Software</b> lab, located at UC Irvine, tries to develop and come up with better tools and techniques to develop more reliable, scalable, and maintainable software. We use artificial intelligence to analyze software evolution.
+
+Located at UC Irvine, the mission of <b> Software Engineering & Testing Using Artificial Intelligence for Reliable Software (STAIRS)</b> lab is helping developers to create maintainable software efficiently. With the main focus on software engineering, we are trying to create better techniques and tools for developing reliable, scalable, and maintainable software. Currently, our research also focuses on how to implement artificial intelligence techniques to analyze software evolution and how software engineering can improve the quality of artificial intelligence software systems. 
 </p>
 
 <p class="lead">
