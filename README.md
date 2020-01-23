@@ -1,7 +1,6 @@
 # STAIRS Website
 
 Website for the STAIRS Lab.
-See the site in action at ??.
 
 Write your recent news into the news data file [`_data/news.yml`](_data/news.yml).
 
