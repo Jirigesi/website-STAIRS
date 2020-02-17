@@ -20,6 +20,10 @@ The papers are listed by publication category in reverse chronological order. Th
   Márcia Lima, Iftekhar Ahmed, Tayana Conte, Elizamary Nascimento, Edson Oliveira, Bruno Gadelha  
   2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)  
   September 2019  
+* #### Topics of concern: Identifying user issues in reviews of IoT apps and devices  
+  Andrew Truelove, Farah Naz Chowdhury, Omprakash Gnawali, Mohammad Amin Alipour  
+  2019 IEEE/ACM 1st International Workshop on Software Engineering Research & Practices for the Internet of Things (SERP4IoT)  
+  May 2019  
 * #### Collaboration in global software development: an investigation on research trends and evolution  
   Yang Yue, Iftekhar Ahmed, Yi Wang, David Redmiles  
   Proceedings of the 14th International Conference on Global Software Engineering  
@@ -151,27 +155,27 @@ The papers are listed by publication category in reverse chronological order. Th
   Iftekhar Ahmed, Soroush Ghorashi, Carlos Jensen  
   International Symposium on Open Source Software: Mobile Open Source Technologies (OSS), Springer Berlin Heidelberg.    
   July 2014  
-  
+
 * #### The Impact of Automatic Crash Reports on Bug Triaging and Development in Mozilla  
   Iftekhar Ahmed, Nitin Mohan, Carlos Jensen  
   International Symposium on Open Collaboration (OpenSym), ACM.  
   July 2014  
-  
+
 * #### An Empirical Comparison of Mutant Selection Approaches  
   Rahul Gopinath, Amin Alipour, Iftekhar Ahmed, Carlos Jensen, Alex Groce  
   Technical Report, School of Engineering and Computer Science,Oregon State University.  
   May 2014  
-  
+
 * #### A Process Study of the Development of Virtual Research Environments  
   I Ahmed, K Cooper, R McGrath, G Griego, MS Poole, RJ Hanisch  
   Astronomical Data Analysis Software and Systems XXIII  
   May 2014  
-  
+
 * #### Identifying a Typology of Players Based on Longitudinal Game Data  
   Iftekhar Ahmed, Amogh Mahapatra, Marshall Scott Poole, Jaideep Srivastava, Channing Brown  
   Predicting Real World Behaviors from Virtual World Data  
   2014  
-  
+
 
 
 
