@@ -39,7 +39,7 @@ id: "people"
 {% endfor %}
 </div>
 
-<!-- ## Alumni
+## Alumni
 
 <ul>
 {% assign sorted_alumni = (site.data.alumni | sort:'name') %}
@@ -55,7 +55,7 @@ id: "people"
     {% if person.at %} (now at {{ person.at }}) {% endif %}
   </li>
 {% endfor %}
-</ul> -->
+</ul>
 
 &nbsp;&nbsp;
 

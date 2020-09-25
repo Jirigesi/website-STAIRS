@@ -1,43 +1,23 @@
-- name: Ziyang Chen
-  nickname: Ziyang
-  image: ziyang.jpg
-
-- name: Changqi Chen
-  nickname: Changqi
-  image: changeqi.jpeg
-
-- name: Ethan Chuong Vu
-  nickname: Ethan
-  image: Ethan.jpg
-
-- name: Don Cung
-  nickname: Don
-  image: Don.png
-
-- name: Ameya Pandit
-  nickname: Ameya
-  image: ameya.jpeg
-
-- name: Jinwoo Kim
-  nickname: Jinwoo
-  image: Jinwoo_Kim.png
-
-- name: Milim Kim
-  nickname: Ameya
-  image: Milim_Kim.png
-
-- name: Tackhyun Kim
-  nickname: Ameya
-  image: Tackhyun_Kim.png
-
-- name: Yongxuan Fu
-  nickname: Yongxuan
-  image: yongxuanfu.jpg
+- name: Weisheng Wang
+  nickname: Weisheng
+  image: weishengwang.jpeg
 
 - name: Shiyue Rong
   nickname: Shiyue
   image: shiyuerong.jpg
 
-- name: Weisheng Wang
-  nickname: Weisheng
-  image: weishengwang.jpeg
+- name: Yongxuan Fu
+  nickname: Yongxuan
+  image: yongxuanfu.jpg
+
+- name: Susie Liu
+  nickname: Susie
+  image: 0911_1.jpg
+
+- name: Jiangtong Wang
+  nickname: Jiangtong
+  image: JiangtongWang.jpg
+
+- name: Darlena Nguyen
+  nickname: Darlena
+  image: darlena.jpg

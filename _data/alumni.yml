@@ -1,5 +1,34 @@
-- name: Shumo Chu
-  nickname: Shumo
-  website: https://shumochu.com/
+- name: Ziyang Chen
+#  nickname: Shumo
+#  website: https://shumochu.com/
   image: shumo.jpg
-  at: Algorand
+  at: Huawei
+
+- name: Changqi Chen
+  nickname: Changqi
+  image: changeqi.jpeg
+  at: CMU
+
+- name: Ethan Chuong Vu
+  nickname: Ethan
+  image: Ethan.jpg
+
+- name: Ameya Pandit
+  nickname: Ameya
+  image: ameya.jpeg
+
+- name: Jinwoo Kim
+  nickname: Jinwoo
+  image: Jinwoo_Kim.png
+
+- name: Milim Kim
+  nickname: Ameya
+  image: Milim_Kim.png
+
+- name: Tackhyun Kim
+  nickname: Ameya
+  image: Tackhyun_Kim.png
+
+- name: Don Cung
+  nickname: Don
+  image: Don.png
