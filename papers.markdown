@@ -7,10 +7,34 @@ id: "papers"
 
 # Papers
 
-The papers are listed by publication category in reverse chronological order. These papers are provided under the copyright permission for non-commercial dissemination of scholarly and technical work.
+The papers are listed by publication category in reverse chronological order. These papers are provided under the 
+copyright permission for non-commercial dissemination of scholarly and technical work.
 
 ---
 ---
+## 2020 
+* #### A Deep Dive on the Impact of COVID-19 in Software Development
+  Paulo Anselmo da Mota Silveira Neto, Umme Ayda Mannan, Eduardo Santana de Almeida, Nachiappan Nagappan, David Lo, 
+  Pavneet Singh Kochhar, Cuiyun Gao, Iftekhar Ahmed (arXiv)
+  Aug 2020
+* #### Accessibility Issues in Android Apps: State of Affairs, Sentiments, and Ways Forward
+  Abdulaziz Alshayban, Iftekhar Ahmed, Sam Malek (ICSE)
+  Jul 2020
+* #### A benchmark for event-race analysis in android apps
+  Navid Salehnamadi, Abdulaziz Alshayban, Iftekhar Ahmed, Sam Malek (Proceedings of the 18th International Conference on 
+  Mobile Systems, Applications, and Services)
+  Jun 2020
+* #### A Multiple Case Study of Artificial Intelligent System Development in Industry
+  Anh Nguyen-Duc, Ingrid Sundbø, Elizamary Nascimento, Tayana Conte, Iftekhar Ahmed, Pekka Abrahamsson (Proceedings of the 
+  Evaluation and Assessment in Software Engineering)
+  Apr 2020
+* #### Examining user reviews of conversational systems: a case study of Alexa skills
+  Soodeh Atefi, Andrew Truelove, Matheus Rheinschmitt, Eduardo Almeida, Iftekhar Ahmed, Amin Alipour (arXiv)
+  Mar 2020
+* #### An empirical investigation into merge conflicts and their effect on software quality
+  Caius Brindescu, Iftekhar Ahmed, Carlos Jensen, Anita Sarma (Empirical Software Engineering)
+  Jan 2020
+  
 ## 2019
 * #### Understanding Development Process of Machine Learning Systems: Challenges and Solutions
   Elizamary de Souza Nascimento, Iftekhar Ahmed, Edson Oliveira, Márcio Piedade Palheta, Igor Steinmacher, Tayana Conte

@@ -41,7 +41,14 @@ id: "people"
 
 ## Alumni
 
-<ul>
+<div class="flex-container people image-container">
+{% for person in site.data.alumni %}
+  {% include person_image image=person.image caption=person.name link=person.website title=person.name %}
+{% endfor %}
+</div>
+
+
+<!--<ul> # this is old approach, only show names
 {% assign sorted_alumni = (site.data.alumni | sort:'name') %}
 {% for person in sorted_alumni %}
   <li>
@@ -55,7 +62,8 @@ id: "people"
     {% if person.at %} (now at {{ person.at }}) {% endif %}
   </li>
 {% endfor %}
-</ul>
+</ul>-->
+
 
 &nbsp;&nbsp;
 
