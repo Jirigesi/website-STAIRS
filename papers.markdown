@@ -12,29 +12,46 @@ copyright permission for non-commercial dissemination of scholarly and technical
 
 ---
 ---
-## 2020 
+## 2020
+* #### On the Relationship Between Design Discussions and Design Quality: A Case Study of Apache Projects
+  Umme Ayda Mannan, Iftekhar Ahmed, Carlos Jensen, Anita Sarma (To appear in FSE 2020)
+  Nov 2020
+
+* #### ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android
+  Navid Salehnamadi, Abdulaziz Alshayban, Iftekhar Ahmed, Sam Malek (ASE 2020)
+  Sep 2020
+ 
 * #### A Deep Dive on the Impact of COVID-19 in Software Development
   Paulo Anselmo da Mota Silveira Neto, Umme Ayda Mannan, Eduardo Santana de Almeida, Nachiappan Nagappan, David Lo, 
   Pavneet Singh Kochhar, Cuiyun Gao, Iftekhar Ahmed (arXiv)
-  Aug 2020
+  August 2020
+* #### Planning for Untangling: Predicting the Difficulty of Merge Conflicts
+  Caius Brindescu, Iftekhar Ahmed, Rafael Leano, Anita Sarma (ICSE 2020)
+  July 2020
+  
 * #### Accessibility Issues in Android Apps: State of Affairs, Sentiments, and Ways Forward
-  Abdulaziz Alshayban, Iftekhar Ahmed, Sam Malek (ICSE)
-  Jul 2020
+  Abdulaziz Alshayban, Iftekhar Ahmed, Sam Malek (ICSE 2020)
+  July 2020
+  
 * #### A benchmark for event-race analysis in android apps
   Navid Salehnamadi, Abdulaziz Alshayban, Iftekhar Ahmed, Sam Malek (Proceedings of the 18th International Conference on 
-  Mobile Systems, Applications, and Services)
-  Jun 2020
+  Mobile Systems, Applications, and Services 2020)
+  June 2020
+  
 * #### A Multiple Case Study of Artificial Intelligent System Development in Industry
-  Anh Nguyen-Duc, Ingrid Sundbø, Elizamary Nascimento, Tayana Conte, Iftekhar Ahmed, Pekka Abrahamsson (Proceedings of the 
-  Evaluation and Assessment in Software Engineering)
-  Apr 2020
+  Anh Nguyen-Duc, Ingrid Sundbø, Elizamary Nascimento, Tayana Conte, Iftekhar Ahmed, Pekka Abrahamsson (EASE 2020)
+  April 2020
+  
 * #### Examining user reviews of conversational systems: a case study of Alexa skills
   Soodeh Atefi, Andrew Truelove, Matheus Rheinschmitt, Eduardo Almeida, Iftekhar Ahmed, Amin Alipour (arXiv)
-  Mar 2020
-* #### An empirical investigation into merge conflicts and their effect on software quality
-  Caius Brindescu, Iftekhar Ahmed, Carlos Jensen, Anita Sarma (Empirical Software Engineering)
-  Jan 2020
+  March 2020
   
+* #### Using Relative Lines of Code to Guide Automated Test Generation for Python
+  Josie Holmes, Iftekhar Ahmed, Caius Brindescu, Rahul Gopinath, He Zhang, He, Alex Groce (TOSEM 2020)
+  January 2020
+* #### An empirical investigation into merge conflicts and their effect on software quality
+  Caius Brindescu, Iftekhar Ahmed, Carlos Jensen, Anita Sarma (Empirical Software Engineering 2020)
+  January 2020
 ## 2019
 * #### Understanding Development Process of Machine Learning Systems: Challenges and Solutions
   Elizamary de Souza Nascimento, Iftekhar Ahmed, Edson Oliveira, Márcio Piedade Palheta, Igor Steinmacher, Tayana Conte
@@ -71,22 +88,10 @@ copyright permission for non-commercial dissemination of scholarly and technical
 * #### What Makes a Good Developer? An Empirical Study of Developers' Technical and Social Competencies  
   Cheng Zhou, Sandeep Kaur Kuttal, Iftekhar Ahmed  
   2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)  
-  October 2018  
-* #### Move Method Recommendation using Call Frequency of Methods and Attributes  
-  Atish Kumar Dipongkor, Iftekhar Ahmed, Nadia Nahar  
-  2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference     on Imaging, Vision & Pattern Recognition (icIVPR)  
-  June 2018  
+  October 2018 
 * #### Improving the Quality of Software Using Mutation Testing and Fault Prediction  
   Iftekhar Ahmed  
   May 2018  
-* #### Understanding Aggressive and Nonaggressive Individual Behaviors in Massively Multiplayer Online Games  
-  Iftekhar Ahmed, Andrew Pilny, Marshall Scott Poole  
-  Social Interactions in Virtual Worlds: An Interdisciplinary Perspective  
-  April 2018  
-* #### A Typology of Virtual Research Environments  
-  Iftekhar Ahmed, Marshall Poole, Ashley Trudeau  
-  Proceedings of the 51st Hawaii International Conference on System Sciences  
-  January 2018  
 
 ---
 ---
@@ -107,14 +112,6 @@ copyright permission for non-commercial dissemination of scholarly and technical
   Rahul Gopinath,Iftekhar Ahmed,Amin Alipour, Carlos Jensen, Alex Groce  
   IEEE Transactions on Reliability, IEEE.  
   May 2017  
-* #### Causal Inference Using Bayesian Networks  
-  Iftekhar Ahmed, Jeffrey Proulx, Andrew Pilny  
-  Group Processes  
-  2017  
-* #### A Process Method Approach to Study the Development of Virtual Research Environments: A Theoretical Framework  
-  Iftekhar Ahmed, Marshall Scott Poole  
-  Learning, Design, and Technology: An International Compendium of Theory, Research, Practice, and Policy  
-  2017  
 
 ---
 ---
@@ -166,10 +163,6 @@ copyright permission for non-commercial dissemination of scholarly and technical
 * #### An empirical comparison of mutant selection approaches  
   Rahul Gopinath, Amin Alipour, Iftekhar Ahmed, Carlos Jensen, Alex Groce  
   April 2015  
-* #### The proposed model of pulse code modulation encoder for voice frequencies  
-  Iftekhar Uddin Ahmed, Abdul Kadar Muhammad Masum, SM Motakabber  
-  International Journal of Scientific World  
-  2015  
 
 
 ---
@@ -189,21 +182,6 @@ copyright permission for non-commercial dissemination of scholarly and technical
   Rahul Gopinath, Amin Alipour, Iftekhar Ahmed, Carlos Jensen, Alex Groce  
   Technical Report, School of Engineering and Computer Science,Oregon State University.  
   May 2014  
-
-* #### A Process Study of the Development of Virtual Research Environments  
-  I Ahmed, K Cooper, R McGrath, G Griego, MS Poole, RJ Hanisch  
-  Astronomical Data Analysis Software and Systems XXIII  
-  May 2014  
-
-* #### Identifying a Typology of Players Based on Longitudinal Game Data  
-  Iftekhar Ahmed, Amogh Mahapatra, Marshall Scott Poole, Jaideep Srivastava, Channing Brown  
-  Predicting Real World Behaviors from Virtual World Data  
-  2014  
-
-
-
-
-
 
 
 
