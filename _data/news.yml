@@ -1,13 +1,17 @@
 - date: 2020-05-20
   description: >
-    Two of [Iftekhar](https://www.informatics.uci.edu/explore/faculty-profiles/iftekhar-ahmed/)'s papers
-    got accepted at FSE!
+    One of [Iftekhar](https://www.informatics.uci.edu/explore/faculty-profiles/iftekhar-ahmed/)'s papers
+    got accepted at FSE 2020!
+
+- date: 2020-03-10
+  description: >
+    One of [Iftekhar](https://www.informatics.uci.edu/explore/faculty-profiles/iftekhar-ahmed/)'s papers
+    got accepted at ASE 2020!
 
 - date: 2020-02-03
   description: >
     Two of [Iftekhar](https://www.informatics.uci.edu/explore/faculty-profiles/iftekhar-ahmed/)'s papers
-    got accepted at EASE!
-
+    got accepted at EASE 2020!
 
 - date: 2019-12-08
   description: >
@@ -15,6 +19,10 @@
     - 'Planning for Untangling: Predicting the Difficulty of Merge Conflicts' at ICSE 2020
     - 'Accessibility Issues in Android Apps: State of Affairs, Sentiments, and Ways Forward' at ICSE 2020
 
+- date: 2019-12-01
+  description: >
+    One of [Iftekhar](https://www.informatics.uci.edu/explore/faculty-profiles/iftekhar-ahmed/)'s papers
+    got accepted at TOSEM 2020!
 
 - date: 2019-09-23
   description: >
