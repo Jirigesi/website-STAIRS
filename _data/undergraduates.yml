@@ -24,7 +24,7 @@
 
 - name: Johnny Fu
   nickname: Johnny
-  image: Johnny.jpg
+  image: Johnny.JPG
 
 - name: Yu Cao
   nickname: Yu
@@ -41,4 +41,8 @@
 - name: Tongjie Wang
   nickname: Tongjie
   image: Tongjie.jpg
+
+- name: Qihong Chen
+  nickname: Qihong
+  image: Qihong.jpg
 
