@@ -9,7 +9,7 @@ Write your recent news into the news data file [`_data/news.yml`](_data/news.yml
 
 * install [jekyll](http://jekyllrb.com/)
 * run jekyll `jekyll serve --watch --baseurl ''` (shorthand: `./serve.sh`)
-* Or use command "bundle exec jekyll serve" to check website
+* Or use command "bundle exec jekyll serve" to check website local demo
 * head over to [localhost:4000](http://127.0.0.1:4000)
 
 
