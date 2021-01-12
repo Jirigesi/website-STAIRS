@@ -15,12 +15,12 @@ copyright permission for non-commercial dissemination of scholarly and technical
 
 ## 2021
 * #### AID: An Automated Inclusivity-Bug Detector
-  Amreeta Chatterjee, Anita Sarma, Margaret Burnett, Mariam Guizani, Catherine Stevens, Iftekhar Ahmed, Jillian Emard, Mary Evelyn May
-  ###### To appear in ICSE 2021
+  Amreeta Chatterjee, Anita Sarma, Margaret Burnett, Mariam Guizani, Catherine Stevens, Iftekhar Ahmed, Jillian Emard, Mary Evelyn May 
+  ###### To appear in ICSE 2021 
 
 * #### We’ll Fix It in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?
   Andrew Truelove, Iftekhar Ahmed, Eduardo Almeida
-  ###### To appear in ICSE 2021
+  ###### To appear in ICSE 2021 - [PDF]({{ site.baseurl }}/papers/ICSE_2021_Truelove.pdf)
 
 ## 2020
 * #### On the Relationship Between Design Discussions and Design Quality: A Case Study of Apache Projects

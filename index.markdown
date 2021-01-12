@@ -24,7 +24,7 @@ Located at UC Irvine, the mission of <b> Software Engineering & Testing Using A
 <p class="lead">
 We are looking for highly motivated <b>PhD or Master</b> students. Please send resumes and cover letters to iftekha@uci.edu
 </p>
-
+***
 
 ## Recent News
 <!-- see also news.markdown -->
@@ -43,21 +43,37 @@ We are looking for highly motivated <b>PhD or Master</b> students. Please send r
   </li>
 </ul>
 
-
+***
 <!-- ## Projects
+
 
 {% include current_projects %} -->
 
+## Our Fundings
+
+<div height="10" class="flex-container logos images-container">
+
+<img src="{{ site.baseurl }}/images/funding/UCI.png" class="img-thumbnail" style="min-height:100px; height:100px;">
+
+<img src="{{ site.baseurl }}/images/funding/ebay.png" class="img-thumbnail" style="min-height:80px; height:80px;">
+
+</div>
+
+
+* * *
+- - -
+
+
 &nbsp;&nbsp;
 
-<div height="50" class="flex-container logos images-container">
+<div height="60" class="flex-container logos images-container">
 
 <!-- <a href="http://www.nsf.gov/"> -->
 <img src="{{ site.baseurl }}/images/Stairs-Logo.png" class="img-thumbnail" style="min-height:180px; height:180px;">
 <!-- </a> -->
 
-    <!-- <a href="https://uci.edu/"> -->
-    <img src="{{ site.baseurl }}/images/UCI-Logo.png" class="img-thumbnail" style="min-height:100px; height:100px;">
-    <!-- </a> -->
+  <!-- <a href="https://uci.edu/"> -->
+  <img src="{{ site.baseurl }}/images/UCI-Logo.png" class="img-thumbnail" style="min-height:100px; height:100px;">
+  <!-- </a> -->
 
 </div>
