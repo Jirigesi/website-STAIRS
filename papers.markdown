@@ -20,7 +20,7 @@ copyright permission for non-commercial dissemination of scholarly and technical
 
 * #### We’ll Fix It in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?
   Andrew Truelove, Iftekhar Ahmed, Eduardo Almeida
-  ###### To appear in ICSE 2021 - [PDF]({{ site.baseurl }}/papers/ICSE_2021_Truelove.pdf)
+  ###### To appear in ICSE 2021 - [Preprint Poster]({{ site.baseurl }}/papers/ICSE_2021_Poster_CR.pdf)
 
 ## 2020
 * #### On the Relationship Between Design Discussions and Design Quality: A Case Study of Apache Projects
