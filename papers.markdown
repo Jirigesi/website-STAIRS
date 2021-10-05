@@ -14,13 +14,33 @@ copyright permission for non-commercial dissemination of scholarly and technical
 ---
 
 ## 2021
-* #### AID: An Automated Inclusivity-Bug Detector
+* #### A Deep Dive into the Impact of COVID-19 on Software Development
+  Paulo Anselmo da Mota Silveira Neto, Umme Ayda Mannan, Eduardo Santana de Almeida, Nachiappan Nagappan, David Lo, Pavneet Singh Kochhar, Cuiyun Gao and Iftekhar Ahmed
+  ###### TSE 2021
+  
+* #### PyNose: A Test Smell Detector For Python
+  Tongjie Wang, Yaroslav Golubev, Oleg, Jiawei Li, Timofey Bryksin, Iftekhar Ahmed
+  ###### ASE 2021
+  
+* #### An Empirical Examination of the Impact of Bias on Just-intime Defect Prediction
+  Jiri Gesi, Jiawei Li, Iftekhar Ahmed
+  ###### ESEM 2021
+  
+* #### Latte: Use-Case and Assistive-Service Driven Automated Accessibility Testing Framework for Android
+  Navid Salehnamadi, Abdulaziz Alshayban, Jun-Wei Lin, Iftekhar Ahmed, Stacy Branham, Sam Malek
+  ###### CHI 2021
+
+* #### AID: An automated detector for gender-inclusivity bugs in OSS project pages
   Amreeta Chatterjee, Anita Sarma, Margaret Burnett, Mariam Guizani, Catherine Stevens, Iftekhar Ahmed, Jillian Emard, Mary Evelyn May 
-  ###### To appear in ICSE 2021 
+  ###### ICSE 2021 
 
 * #### We’ll Fix It in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?
   Andrew Truelove, Iftekhar Ahmed, Eduardo Almeida
-  ###### To appear in ICSE 2021 - [Preprint Poster]({{ site.baseurl }}/papers/ICSE_2021_Poster_CR.pdf)
+  ###### ICSE 2021 
+ 
+* #### Are UX Evaluation Methods Providing the Same Big Picture?
+  Walter Takashi Nakamura, Iftekhar Ahmed, David Redmiles, Edson Oliveira, David Fernandes, Elaine HT de Oliveira, Tayana Conte
+  ###### Sensors 2021 
 
 ## 2020
 * #### On the Relationship Between Design Discussions and Design Quality: A Case Study of Apache Projects
@@ -122,7 +142,8 @@ copyright permission for non-commercial dissemination of scholarly and technical
 
 ---
 ---
-## 2017
+## 2017    
+
 * #### A Case Study of Motivations for Corporate Contribution to FOSS  
   Iftekhar Ahmed, Darren Forrest, Carlos Jensen    
   Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2017), IEEE.    
@@ -132,6 +153,11 @@ copyright permission for non-commercial dissemination of scholarly and technical
   11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ACM/IEEE.   
   ###### ESEM 2017
   July 2017   
+* #### An Empirical Examination of Code Smells and Their Impact on Collaborative Work
+  Iftekhar Ahmed, Caius Brindescu, Umme Ayda Mannan, Anita Sarma and Carlos Jensen    
+  11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ACM/IEEE.   
+  ###### ESEM 2017
+  July 2017 
 * #### Applying Mutation Analysis On Kernel Test Suites An Experience Report  
   Iftekhar Ahmed, Carlos Jensen, Alex Groce,Paul E. McKenney  
   International Conference on Software Testing, Verification and Validation Workshop on Mutation Analysis
@@ -142,6 +168,10 @@ copyright permission for non-commercial dissemination of scholarly and technical
   IEEE Transactions on Reliability, IEEE.
   ###### TS 2017
   May 2017  
+ 
+* #### Does choice of mutation tool matter?  
+  Rahul Gopinath, Iftekhar Ahmed, Mohammad Amin Alipour, Carlos Jensen, and Alex Groce  
+  Software Quality Journal 
 
 ---
 ---
@@ -175,7 +205,7 @@ copyright permission for non-commercial dissemination of scholarly and technical
 ---
 ---
 ## 2015   
-* #### An Empirical Study of Design Degradation How Software Projects Get Worse Over Time  
+* #### An Empirical Study of Design Degradation: How Software Projects Get Worse Over Time  
   Iftekhar Ahmed, Umme Ayda Mannan, Rahul Gopinath, Carlos Jensen    
   30th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ACM/IEEE.
   ###### ESEM 2015   
